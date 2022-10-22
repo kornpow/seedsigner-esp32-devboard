@@ -24,3 +24,10 @@ The schematic was based on the instructions in this repo
 * OV2640:   -60mA  @ 3.3V (max)
 * LCD:       -??mA @ 3.3V
 * ESP32:    -310mA @ 3.3V (max)
+
+# Pictures
+
+## Schematic
+![Schematic](screenshots/schematic-10-21-22.png)
+## PCB
+![PCB](screenshots/pcb-art-10-21-22.png)
