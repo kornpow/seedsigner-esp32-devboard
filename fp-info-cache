@@ -1,4 +1,4 @@
-20392980630739407
+20399647834939686
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78932,6 +78932,13 @@ MODULE_ESP32-S2-SAOLA-1M
 42
 42
 SeedSigner
+MOUNT_HOLE_3MM
+
+
+0
+0
+0
+SeedSigner
 OV_Camera
 
 
@@ -78946,12 +78953,33 @@ PCF8575_DEV_BOARD
 25
 25
 SeedSigner
+SeedSigner_Logo
+
+
+0
+0
+0
+SeedSigner
+Seedsigner_LOGO2
+
+
+0
+0
+0
+SeedSigner
 WAVESHARE_LCD_BUTTON
 
 
 0
 40
 40
+SeedSigner
+seedsigner-logo-small
+
+
+0
+0
+0
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
