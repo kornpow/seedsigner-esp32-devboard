@@ -19,6 +19,8 @@ The schematic was based on the instructions in this repo
 
 [Waveshare 1.3in LCD Hat](https://www.waveshare.com/wiki/1.3inch_LCD_HAT)
 
+![Saola Pinout Diagram](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/_images/esp32-s2_saola1-pinout.jpg)
+
 # Power Budget
 * LDO:      +800mA @ 3.3V
 * OV2640:   -60mA  @ 3.3V (max)
