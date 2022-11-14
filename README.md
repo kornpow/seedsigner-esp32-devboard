@@ -30,6 +30,6 @@ The schematic was based on the instructions in this repo
 # Pictures
 
 ## Schematic
-![Schematic](screenshots/schematic-10-21-22.png)
+![Schematic](screenshots/2022-11-13-schematic.png)
 ## PCB
-![PCB](screenshots/pcb-art-10-21-22.png)
+![PCB](screenshots/2022-11-13-pcb.png)
